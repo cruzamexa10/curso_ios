@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppDemo/FilaTableViewCell.swift"
+            timestampString = "502662493.542618"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "FilaTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDemo.FilaTableViewCell.lblIzquierda.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "AppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/l85PC/Documents/Proyectos%20Curso%20iOS/AppDemo/AppDemo/FilaTableViewCell.swift"
+                  timestampString = "502662494.009741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDemo.FilaTableViewCell.lblIzquierda.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "AppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/l85PC/Documents/Proyectos%20Curso%20iOS/AppDemo/AppDemo/FilaTableViewCell.swift"
+                  timestampString = "502662494.012716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDemo.FilaTableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; AppDemo.FilaTableViewCell"
+                  moduleName = "AppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/l85PC/Documents/Proyectos%20Curso%20iOS/AppDemo/AppDemo/FilaTableViewCell.swift"
+                  timestampString = "502662494.014034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppDemo.FilaTableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;AppDemo.FilaTableViewCell&gt;"
+                  moduleName = "AppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/l85PC/Documents/Proyectos%20Curso%20iOS/AppDemo/AppDemo/FilaTableViewCell.swift"
+                  timestampString = "502662494.015266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
